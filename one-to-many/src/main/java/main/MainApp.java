@@ -17,26 +17,31 @@ public class MainApp {
         Session session = sessionFactory.openSession();
         Transaction transaction = session.beginTransaction();
 
-        Answer answer1 = new Answer();
-        answer1.setAnswer("Programming language");
+//        Answer answer1 = new Answer();
+//        answer1.setAnswer("Programming language");
+//
+//        Answer answer2 = new Answer();
+//        answer2.setAnswer("Iceland");
+//
+//        List<Answer> answerList = new ArrayList<>();
+//        answerList.add(answer1);
+//        answerList.add(answer2);
+//
+//        Question question=new Question();
+//        question.setQuestion("What is java?");
+//        question.setAnswers(answerList);
+//        answer1.setQuestion(question);
+//        answer2.setQuestion(question);
+//
+//        session.save(answer1);
+//        session.save(answer2);
+//        session.save(question);
 
-        Answer answer2 = new Answer();
-        answer2.setAnswer("Iceland");
-
-        List<Answer> answerList = new ArrayList<>();
-        answerList.add(answer1);
-        answerList.add(answer2);
-
-        Question question=new Question();
-        question.setQuestion("What is java?");
-        question.setAnswers(answerList);
-        answer1.setQuestion(question);
-        answer2.setQuestion(question);
-
-        session.save(answer1);
-        session.save(answer2);
-        session.save(question);
-
+        Question question = (Question) session.get(Question.class, 1);
+        System.out.println(question.getQuestion());
+        System.out.println("Answers: ");
+        for (Answer a : question.getAnswers())
+            System.out.println(a.getAnswer() );
         transaction.commit();
         sessionFactory.close();
         session.close();
