@@ -6,9 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="many-to-many-demo" />
+        <module name="one-to-one-unidirectional" />
+        <module name="many-to-many" />
         <module name="one-to-many" />
         <module name="one-to-one-two-directional" />
-        <module name="one-to-one-unidirectional" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

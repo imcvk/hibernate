@@ -12,6 +12,8 @@
         <module>one-to-one-unidirectional</module>
         <module>one-to-one-two-directional</module>
         <module>one-to-many</module>
+        <module>one-to-one-two-directional/many-to-many</module>
+        <module>many-to-many-demo</module>
 
     </modules>
 
