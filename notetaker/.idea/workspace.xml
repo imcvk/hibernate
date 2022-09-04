@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="notetaker:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6338c80f-3ab4-4307-96a6-c42a400a80a1" name="Changes" comment="NoteTaker app using hibernate">
+      <change beforePath="$PROJECT_DIR$/../Notetaker/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/.idea/jpa-buddy-datasource.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/.jpb/persistence-units.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/.settings/.jsdtscope" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/.settings/org.eclipse.jdt.apt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/.settings/org.eclipse.wst.common.component" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/.settings/org.eclipse.wst.jsdt.ui.superType.container" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/.settings/org.eclipse.wst.jsdt.ui.superType.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/.settings/org.eclipse.wst.validation.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/bin/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/bin/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/bin/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/bin/.idea/jpa-buddy-datasource.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/bin/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/bin/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/bin/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/bin/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/bin/.jpb/persistence-units.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/bin/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/bin/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/bin/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/bin/src/main/java/com/hibernate/app/MainApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/bin/src/main/java/com/hibernate/entities/Note.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/bin/src/main/java/com/hibernate/servlets/saveNoteServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/bin/src/main/java/com/hibernate/util/HibernateUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/bin/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/bin/src/main/webapp/add_notes.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/bin/src/main/webapp/all_js_css.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/bin/src/main/webapp/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/bin/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/bin/src/main/webapp/navbar.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/bin/target/Note-taker/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/bin/target/Note-taker/WEB-INF/lib/antlr4-runtime-4.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/bin/target/Note-taker/WEB-INF/lib/byte-buddy-1.12.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/bin/target/Note-taker/WEB-INF/lib/classmate-1.5.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/bin/target/Note-taker/WEB-INF/lib/hibernate-commons-annotations-6.0.2.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/bin/target/Note-taker/WEB-INF/lib/hibernate-core-6.1.2.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/bin/target/Note-taker/WEB-INF/lib/istack-commons-runtime-4.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/bin/target/Note-taker/WEB-INF/lib/jakarta.activation-2.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/bin/target/Note-taker/WEB-INF/lib/jakarta.inject-api-2.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/bin/target/Note-taker/WEB-INF/lib/jakarta.persistence-api-3.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/bin/target/Note-taker/WEB-INF/lib/jakarta.transaction-api-2.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/bin/target/Note-taker/WEB-INF/lib/jakarta.xml.bind-api-3.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/bin/target/Note-taker/WEB-INF/lib/jandex-2.4.2.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/bin/target/Note-taker/WEB-INF/lib/jaxb-core-3.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/bin/target/Note-taker/WEB-INF/lib/jaxb-runtime-3.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/bin/target/Note-taker/WEB-INF/lib/jboss-logging-3.4.3.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/bin/target/Note-taker/WEB-INF/lib/txw2-3.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/bin/target/Note-taker/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/bin/target/Note-taker/add_notes.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/bin/target/Note-taker/all_js_css.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/bin/target/Note-taker/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/bin/target/Note-taker/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/bin/target/Note-taker/navbar.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/bin/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/src/main/java/com/hibernate/app/MainApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/src/main/java/com/hibernate/entities/Note.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/src/main/java/com/hibernate/servlets/saveNoteServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/src/main/java/com/hibernate/util/HibernateUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/src/main/webapp/add_notes.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/src/main/webapp/all_js_css.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/src/main/webapp/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/src/main/webapp/navbar.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/target/Note-taker/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/target/Note-taker/WEB-INF/classes/com/hibernate/app/MainApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/target/Note-taker/WEB-INF/classes/com/hibernate/entities/Note.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/target/Note-taker/WEB-INF/classes/com/hibernate/servlets/saveNoteServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/target/Note-taker/WEB-INF/classes/com/hibernate/util/HibernateUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/target/Note-taker/WEB-INF/lib/antlr4-runtime-4.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/target/Note-taker/WEB-INF/lib/byte-buddy-1.12.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/target/Note-taker/WEB-INF/lib/classmate-1.5.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/target/Note-taker/WEB-INF/lib/hibernate-commons-annotations-6.0.2.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/target/Note-taker/WEB-INF/lib/hibernate-core-6.1.2.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/target/Note-taker/WEB-INF/lib/istack-commons-runtime-4.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/target/Note-taker/WEB-INF/lib/jakarta.activation-2.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/target/Note-taker/WEB-INF/lib/jakarta.inject-api-2.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/target/Note-taker/WEB-INF/lib/jakarta.persistence-api-3.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/target/Note-taker/WEB-INF/lib/jakarta.transaction-api-2.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/target/Note-taker/WEB-INF/lib/jakarta.xml.bind-api-3.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/target/Note-taker/WEB-INF/lib/jandex-2.4.2.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/target/Note-taker/WEB-INF/lib/jaxb-core-3.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/target/Note-taker/WEB-INF/lib/jaxb-runtime-3.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/target/Note-taker/WEB-INF/lib/jboss-logging-3.4.3.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/target/Note-taker/WEB-INF/lib/txw2-3.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/target/Note-taker/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/target/Note-taker/add_notes.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/target/Note-taker/all_js_css.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/target/Note-taker/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/target/Note-taker/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/target/Note-taker/navbar.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/target/m2e-wtp/web-resources/META-INF/maven/org.example/Notetaker/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notetaker/target/m2e-wtp/web-resources/META-INF/maven/org.example/Notetaker/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hibernate/notetaker/util/HibernateUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/notetaker/util/HibernateUtil.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ECJMkpE6KQUZ7Kaws1DoAvy9E0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/imcvk/Documents/Code/Hibernate/notetaker/src/main/resources",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/webapp" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/hibernate/notetaker" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/img" />
+      <recent name="$PROJECT_DIR$/src/main/resources/img" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 10.0.23" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.0.23" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="notetaker:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/notetaker_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="d09ed988-73f0-4fd0-8b93-8b9433682d92" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="33737" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="notetaker:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6338c80f-3ab4-4307-96a6-c42a400a80a1" name="Changes" comment="" />
+      <created>1662093588241</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662093588241</updated>
+      <workItem from="1662093590556" duration="1000" />
+      <workItem from="1662094673437" duration="326000" />
+      <workItem from="1662095007778" duration="2045000" />
+      <workItem from="1662251456548" duration="16463000" />
+    </task>
+    <task id="LOCAL-00001" summary="NoteTaker app using hibernate">
+      <created>1662280509187</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662280509187</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="NoteTaker app using hibernate" />
+    <option name="LAST_COMMIT_MESSAGE" value="NoteTaker app using hibernate" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hibernate/notetaker/servlets/DeleteServlet.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hibernate/notetaker/dao/DBOPs.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hibernate/notetaker/dao/DBOPs.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
