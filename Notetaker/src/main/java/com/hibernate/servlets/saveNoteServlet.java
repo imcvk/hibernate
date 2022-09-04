@@ -9,7 +9,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.Date;
 
-@WebServlet("/saveNoteServlet")//(name = "saveNoteServlet", urlPatterns ={"/saveNoteServlet"} )
+@WebServlet(name = "saveNoteServlet", urlPatterns ={"/saveNoteServlet"} )
 public class saveNoteServlet extends HttpServlet {
     //PrintWriter printWriter;
 

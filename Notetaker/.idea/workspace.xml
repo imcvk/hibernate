@@ -10,92 +10,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="134a4560-3997-4d6d-b14b-c9bed8512161" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../NoteTaker/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NoteTaker/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NoteTaker/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NoteTaker/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NoteTaker/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy-datasource.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jpb/persistence-units.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/.jsdtscope" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.apt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.component" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.validation.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/.idea/jpa-buddy-datasource.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/.jpb/persistence-units.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/src/main/java/com/hibernate/app/MainApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/src/main/java/com/hibernate/entities/Note.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/src/main/java/com/hibernate/servlets/saveNoteServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/src/main/java/com/hibernate/util/HibernateUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/src/main/webapp/add_notes.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/src/main/webapp/all_js_css.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/src/main/webapp/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/src/main/webapp/navbar.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/target/Note-taker/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/target/Note-taker/WEB-INF/lib/antlr4-runtime-4.10.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/target/Note-taker/WEB-INF/lib/byte-buddy-1.12.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/target/Note-taker/WEB-INF/lib/classmate-1.5.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/target/Note-taker/WEB-INF/lib/hibernate-commons-annotations-6.0.2.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/target/Note-taker/WEB-INF/lib/hibernate-core-6.1.2.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/target/Note-taker/WEB-INF/lib/istack-commons-runtime-4.0.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/target/Note-taker/WEB-INF/lib/jakarta.activation-2.0.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/target/Note-taker/WEB-INF/lib/jakarta.inject-api-2.0.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/target/Note-taker/WEB-INF/lib/jakarta.persistence-api-3.0.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/target/Note-taker/WEB-INF/lib/jakarta.transaction-api-2.0.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/target/Note-taker/WEB-INF/lib/jakarta.xml.bind-api-3.0.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/target/Note-taker/WEB-INF/lib/jandex-2.4.2.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/target/Note-taker/WEB-INF/lib/jaxb-core-3.0.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/target/Note-taker/WEB-INF/lib/jaxb-runtime-3.0.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/target/Note-taker/WEB-INF/lib/jboss-logging-3.4.3.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/target/Note-taker/WEB-INF/lib/txw2-3.0.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/target/Note-taker/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/target/Note-taker/add_notes.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/target/Note-taker/all_js_css.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/target/Note-taker/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/target/Note-taker/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/target/Note-taker/navbar.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/app/MainApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/entities/Note.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/servlets/saveNoteServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/util/HibernateUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/add_notes.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/all_js_css.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/navbar.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hibernate-objects-states/src/main/java/main/MainApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hibernate-objects-states/src/main/java/model/Certificate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hibernate-objects-states/src/main/java/model/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../notetaker/.idea/artifacts/notetaker_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../notetaker/.idea/artifacts/notetaker_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../notetaker/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../notetaker/.idea/jpa-buddy-datasource.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../notetaker/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../notetaker/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../notetaker/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../notetaker/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../notetaker/.jpb/persistence-units.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NoteTaker/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NoteTaker/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NoteTaker/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NoteTaker/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NoteTaker/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hibernate/servlets/saveNoteServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/servlets/saveNoteServlet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +89,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/home/imcvk/Documents/Code/Hibernate",
-    "project.structure.last.edited": "Artifacts",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.pluginManager"
@@ -176,7 +109,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Tomcat 9" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.0.23" ALTERNATIVE_JRE_ENABLED="false">
+    <configuration name="Unnamed" type="TomeeConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="TomEE 9.0.65" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="Notetaker:war exploded">
@@ -186,8 +119,7 @@
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="7171fb4e-93bc-4f82-983f-3f279989811b" />
-        <option name="HTTP_PORT" value="8081" />
+        <option name="BASE_DIRECTORY_NAME" value="875a8b45-8676-45a4-99dd-0e95b1c1742a" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
@@ -195,7 +127,7 @@
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="43765" />
+        <option name="DEBUG_PORT" value="39749" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -278,6 +210,7 @@
       <workItem from="1662052028599" duration="3758000" />
       <workItem from="1662055959919" duration="584000" />
       <workItem from="1662056551606" duration="218000" />
+      <workItem from="1662091552136" duration="2269000" />
     </task>
     <servers />
   </component>
@@ -301,7 +234,7 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/hibernate/servlets/saveNoteServlet.java</url>
           <line>19</line>
-          <option name="timeStamp" value="3" />
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
