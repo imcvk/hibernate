@@ -26,6 +26,16 @@
         </webroots>
       </configuration>
     </facet>
+    <facet type="web" name="Web3">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Notetaker/target/Note-taker/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Notetaker/target/Note-taker" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
     <facet type="web" name="Web2">
       <configuration>
         <descriptors>
