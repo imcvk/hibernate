@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="affcfcc8-25fe-4988-bd17-19c0567f8a97" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/target/classes/META-INF/maven/org.hibernatedemo/hibernate-startup-project/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/target/classes/META-INF/maven/org.hibernatedemo/hibernate-startup-project/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hql-demo-app/src/main/java/util/HQL_Operations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/Hibernate.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/Hibernate.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.log" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.sse.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.sse.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.xml.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.xml.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/1865797976.index" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/1865797976.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/workspacestate.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/workspacestate.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/version.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/version.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernate-demo-image-in-databse/target/classes/META-INF/maven/org.hibernate.imagesaving/hibernate-demo-image-in-databse/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../hibernate-demo-image-in-databse/target/classes/META-INF/maven/org.hibernate.imagesaving/hibernate-demo-image-in-databse/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernate-demo/target/classes/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hibernate-demo/target/classes/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernate-demo/target/classes/org/hibernatedemo/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hibernate-demo/target/classes/org/hibernatedemo/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernate-demo/target/classes/org/hibernatedemo/HibernateUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hibernate-demo/target/classes/org/hibernatedemo/HibernateUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernate-demo/target/classes/org/hibernatedemo/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hibernate-demo/target/classes/org/hibernatedemo/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernate-demo/target/test-classes/org/hibernatedemo/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hibernate-demo/target/test-classes/org/hibernatedemo/AppTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernate-fetch-type/target/classes/META-INF/maven/org.hibernate/hibernate-fetch-type/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../hibernate-fetch-type/target/classes/META-INF/maven/org.hibernate/hibernate-fetch-type/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernate-mapping" beforeDir="false" afterPath="$PROJECT_DIR$/../hibernate-mapping" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernate-objects-states/target/classes/META-INF/maven/org.hibernate/hibernate-objects-states/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../hibernate-objects-states/target/classes/META-INF/maven/org.hibernate/hibernate-objects-states/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernate-oneToOne-unidirectional/target/classes/META-INF/maven/org.hibernate/hibernate-oneToOne-unidirectional/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../hibernate-oneToOne-unidirectional/target/classes/META-INF/maven/org.hibernate/hibernate-oneToOne-unidirectional/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hql-demo-app/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hql-demo-app/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hql-demo-app/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hql-demo-app/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hql-demo-app/src/main/java/mainapp/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hql-demo-app/src/main/java/mainapp/MainApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hql-demo-app/src/main/java/util/HQL_Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hql-demo-app/src/main/java/util/HibernateUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hql-demo-app/src/main/java/util/HibernateUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hql-demo-app/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hql-demo-app/target/classes/META-INF/maven/org.hibernate/hql-demo-app/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hql-demo-app/target/classes/META-INF/maven/org.hibernate/hql-demo-app/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../many-to-many/target/classes/META-INF/maven/org.example/many-to-many/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../many-to-many/target/classes/META-INF/maven/org.example/many-to-many/pom.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EZMao4x4Us7uWb1sym3AYwyRJh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/imcvk/Documents/Code/Hibernate/hibernate-pagination",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.." />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="pagination-hibernte" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="pagination-hibernte" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="affcfcc8-25fe-4988-bd17-19c0567f8a97" name="Changes" comment="" />
+      <created>1662798720101</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662798720101</updated>
+      <workItem from="1662798721279" duration="849000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
